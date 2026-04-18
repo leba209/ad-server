@@ -1,7 +1,13 @@
 {
-  "version": 2,
+  "version": 3,
   "ads": [
-    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/apple-logo-transparent.png" },
-    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike.png" }
+    {
+      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/apple-logo-transparent.png",
+      "link": "https://apple.com"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike.png",
+      "link": "https://nike.com"
+    }
   ]
 }
