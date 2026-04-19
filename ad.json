@@ -1,5 +1,6 @@
 {
-  "version": 3,
+  "version": 4,
+  "theme": "valentine",
   "ads": [
     {
       "url": "https://raw.githubusercontent.com/leba209/ad-server/main/apple-logo-transparent1.png",
