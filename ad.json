@@ -2,15 +2,15 @@
   "version": 3,
   "ads": [
     {
-      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/apple-logo-transparent.png",
+      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/apple-logo-transparent1.png",
       "link": "https://apple.com"
     },
     {
-      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike.png",
+      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike1.png",
       "link": "https://nike.com"
     }
      {
-      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/ray-ban-logo.png",
+      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/ray-ban-log1o.png",
       "link": "https://www.ray-ban.com"
     }
   ]
