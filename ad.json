@@ -1,8 +1,8 @@
 {
   "version": 3,
   "sprites": [
-    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/heart.png" },
-    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/heart2.png" }
+    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/red heart.png" },
+    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/pink heart.png" }
   ],
   "ads": [
     { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike1.png","link": "https://nike.com"}
