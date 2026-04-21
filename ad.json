@@ -1,18 +1,10 @@
 {
-  "version": 4,
-  "theme": "valentine",
+  "version": 3,
+  "sprites": [
+    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/heart.png" },
+    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/heart2.png" }
+  ],
   "ads": [
-    {
-      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/apple-logo-transparent1.png",
-      "link": "https://apple.com"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike1.png",
-      "link": "https://nike.com"
-    }
-     {
-      "url": "https://raw.githubusercontent.com/leba209/ad-server/main/ray-ban-log1o.png",
-      "link": "https://www.ray-ban.com"
-    }
+    { "url": "https://raw.githubusercontent.com/leba209/ad-server/main/nike1.png","link": "https://nike.com"}
   ]
 }
